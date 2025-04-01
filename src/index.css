@@ -76,6 +76,7 @@ body {
     .hab-font {
         font-family: "habbo-regular";
     }
+
     .hero-heading {
         @apply uppercase font-zentry font-black text-5xl sm:right-10 sm:text-7xl md:text-9xl lg:text-[12rem];
     }
